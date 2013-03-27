@@ -9,7 +9,7 @@ So, Any help is appreciated.
 
 <pre>
 npm install  
-sudo forever start server.js  
+sudo node server.js  
 </pre>
 
 Contributors:
